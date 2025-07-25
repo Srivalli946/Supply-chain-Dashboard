@@ -53,4 +53,5 @@ This project demonstrates how data-driven decision-making can be applied to supp
 
 > You can add a screenshot of your dashboard by uploading an image and using:
 ```markdown
-![Dashboard Screenshot](dashboard_preview.png)
+<img width="1920" height="1080" alt="Supply chain dashboard" src="https://github.com/user-attachments/assets/e917e8c7-6565-4f07-8d8b-5ff160dc7ab8" />
+
